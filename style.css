@@ -940,11 +940,23 @@ header.sticky {
   border-radius: 20px;
   color: #1a1a1a;
 }
-.c1 { background: var(--main-color); color: #fff; }
-.c2 { background: #f2b63d; }
-.c3 { background: #7fd1c7; }
-.c4 { background: #8ea2ff; }
-.c5 { background: #858585; color: #fff; }
+.c1 {
+  background: var(--main-color);
+  color: #fff;
+}
+.c2 {
+  background: #f2b63d;
+}
+.c3 {
+  background: #7fd1c7;
+}
+.c4 {
+  background: #8ea2ff;
+}
+.c5 {
+  background: #858585;
+  color: #fff;
+}
 .mock-times li {
   display: grid;
   grid-template-columns: 52px 1fr;
